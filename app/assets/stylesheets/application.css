@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+ h3 {
+  color: #6f1d1b;
+ }
+
+ .link {
+  text-decoration: none
+ }
